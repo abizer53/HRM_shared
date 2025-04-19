@@ -1,0 +1,1 @@
+[14-Nov-2022 14:57:20 Africa/Johannesburg] PHP Fatal error:  Cannot declare class AddColumnsToResignationsTable, because the name is already in use in /home/q5w20afri03w/public_html/hrm/database/migrations/2022_11_13_154306_add_columns_to_leave_table.php on line 7
